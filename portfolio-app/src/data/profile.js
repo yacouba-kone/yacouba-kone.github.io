@@ -10,7 +10,7 @@ export const profile = {
   lastName: 'KONE',
   fullName: 'Yacouba KONE',
   role: 'Data Scientist',
-  photo: '/yacouba-kone.jpg',
+  photo: `${import.meta.env.BASE_URL}yacouba-kone.jpg`,
   photoAlt: 'Portrait de Yacouba KONE, Data Scientist',
   tagline: 'Data Sciences · Machine Learning · Géolocalisation · IA générative · Big Data',
   summary:
