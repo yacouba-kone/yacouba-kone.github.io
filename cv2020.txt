@@ -1,0 +1,236 @@
+=== PAGE 1 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Data Scientist | Data Analyst | ML Engineer  
+ 
+ 
+EXPERIENCE PROFESSIONNELLE  
+ 
+ 
+Depuis 10/2019 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+01/2019 – 06/2019 
+ 
+ 
+ 
+ 
+ 
+ 
+09/2018 – 12/2018 
+ 
+ 
+ 
+ 
+ 
+ 
+01/2018 – 04/2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+09/2017 – 12/2017 
+ 
+Data Scientist – ML Ingineer  -- GEOLOC, France 
+Développement et déploiement d’algorithmes de traçage indoor/ outdoor liés aux données 
+de capteurs inertiels embarqués. 
+ 
+Fonctions générales : 
+ Développement d’algorithme d’intelligence artificielle pour la navigation pédestre dans le cadre du projet 
+de recherche ANR/DGA MALIN, 
+ Conception de modèles basés sur du ‘machine learning’ pour détecter les instants de pas (Zero velocity 
+Update) de personnes dans tous types de mouvements correspondants aux compétitions de 
+géolocalisation intérieure organisées par l’ANR/DGA, 
+ Formation en intelligence artificielle pour les membres du laboratoire GEOLOC, 
+ Participation aux réunions de gestion du projet et de présentations de résultats, 
+ Co-encadrement d’étudiants en stage (Sanjana G. – MSc 1), 
+ Rédaction de scénario de validation des algorithmes et de maintenance des applications et algorithmes, 
+ Rédaction d’un data Paper (En cours ), 
+ Programmation Python, R et Matlab. 
+ 
+Stagiaire en Data Analyst | IA Developper -- IUT de Nantes, France 
+Analyse de données issues de machines-outils connectées 
+ Automatisation des analyses de données de machines-outils connectées, 
+ Développement d’algorithme d’intelligence artificielle pour la détection de profondeur de passe, 
+ Participation aux réunions de présentation des résultats, 
+ Programmation R. 
+ 
+Machine Learning : Predicting the Flu -- participation à l’UBS Kaggle Challenge, France 
+Prédiction de taux de grippe en France par région pour l’année 2019. 
+ Prédiction du taux de grippe par fusion de méthode de machine learning , 
+ Features ingineering : Sélection des features corrélées avec la grippe, 
+ Data cleaning : Nettoyage et structuration des données issues de multi-sources, 
+ Type de données : Spatiale, démographiques et épidémiologique, 
+ Programmation R et Spacklyr. 
+ 
+Développeur application web --  EDF /  UBS, France 
+Développement d’une application SHINY pour l’analyse statistique des données de 
+défaillance de cause commune  
+ Développement application Shiny, 
+ Automatisation d’analyses statistiques, 
+ Sélection de modèle Poisson, Weibul, 
+ Présentation de l’application Shiny lors de la « 7ème Rencontre R » à Rennes du 4 au 6 juillet 2018,  
+ Programmation R. 
+Yacouba KONE 
+LinkedIn : linkedin.com/in/yacouba-kone 
+Email : yacouba.k2013@gmail.com 
+ 06.99.62.27.87 
+=== PAGE 2 ===
+ 
+ 
+ 
+ 
+ 
+01/2017 – 08/2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+06/2016 – 09/2016 
+ 
+ 
+ 
+ 
+Business intelligent – UBS, France France  
+Création d’un entrepôt de données et modélisation des données de PME Moremovies  
+ Reporting 
+ Création de Data Warehouse 
+ Programmation Oracle, Power BI. 
+ 
+Data-Manager du projet FBR - Centre Muraz & Banque Mondiale, Burkina Faso 
+Création de questionnaires électroniques et de batch d’apurement automatique  
+ Contrôle qualité : programmation des outils de collecte avec Cs pro, 
+ Contrôle qualité : programmation des batch de contrôle de la conformité des données attendues avec 
+stata, 
+ Synchronisation : programmation des batch d’envoi de données circuit tablette – serveur local – serveur 
+cloud. 
+ Programmation Cs pro, STATA. 
+ 
+Stagiaire Statistique – Informatique - Centre MURAZ Burkina Faso 
+Création d’un indicateur synthétique de morbidité et de mortalité infantile au BURKINA 
+ 
+ Classification non-supervisée : Classification ascendante hiérarchique, 
+ Data minning : modélisation par analyse factorielle multiple, 
+ Type de données : Démographique et spatiale 
+ Programmation STATA,SPAD. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PUBLICATIONS   
+« Machine Learning based Zero -Velocity Detection for Inertial Pedestrian Navigation  » : Cette étude met en avant l'utilisation des 
+algorithmes de machine learning pour la détection des instants de Zéro Vélocity Update (Zupt). On parle de Zupt, lorsque la v itesse du 
+porteur du matériel PEdestrain Reference System (PERSY) dans notre contexte en nulle. Il s'agit pour nous de d'adapter les vi tesses à 
+ces instants. Cet algorithme marche en indoor qu'en outdoor ce qui est un atout considérable pour la traçabilité par e xemple des 
+pompiers lors d'une intervention etc. 
+https://ieeexplore.ieee.org/document/9107252 
+ 
+« A one-step machine learning based detection of inertial sensors zero velocity without pedestrian m otion classification  » : 
+Cette étude est la suite de la précédente publication au journal sensors. En effet, précédemment, l'algorithme de détection d 'instants de 
+Zupt était aidé par un autre algorithme de classification de mouvement. Dans cette étude, l'a pproche consiste à créer un seul 
+algorithme de détection de Zupt assez robuste capable de s'adapter aux types de mouvement.  
+ 
+« Evaluation de la Qualité des Données d’une Enquête de Grande Envergure  » : Cette étude vise à évaluer la performance à l’aide 
+d’un système de prime en fonction des résultats obtenus. 
+ 
+ 
+COMPETITIONS & TRAVAIL COLLABORATIF   
+ZINDI Compétition  « Basic Needs Basic Rights Kenya - Tech4MentalHealth )» : Cette compétition vise à  développer un 
+modèle d'apprentissage automatique qui classe les déclarations et les questions exprimées par les étudiants des universités au Kenya 
+lorsqu'ils parlent des problèmes de santé mentale auxquels ils sont confrontés. L es quatre catégories sont la dépression, le suicide, 
+l'alcoolisme et la toxicomanie. 
+ 
+LINK: https://ieeexplore.ieee.org/document/9107252
+=== PAGE 3 ===
+ZINDI Compétition  « Mobile Money and Financial Inclusion in Tanzania Challenge  » : L'objectif de ce co ncours est de 
+créer un modèle d'apprentissage automatique pour prédire quels individus sont les plus susceptibles d'utiliser l'argent mobil e et d'autres 
+services financiers (épargne, crédit et assurance). 
+ 
+ZINDI Compétition  « Mtoto News Childline Kenya Call Volume Prediction Challenge » : L'objectif de ce concours est de 
+créer un modèle de prévision pour prévoir le nombre d'appels entrants que les enfants Kenyan recoivent par heure et par jour. 
+ 
+DataBusiness  « CoqBot » : vise à améliorer la prise de décision pour les éleveurs de volailles au BURKINA FASO afin  
+d’éviter toute propagation de virus au sein du poulailler avec deux grandes options dont le diagnostic et la discussion.  
+ 
+ 
+ 
+COMPETENCES TECHNIQUES  
+ 
+Compétences :  
+ Business Intelligence BI / data visualisation 
+ Spark Cluster & Hadoop / Big Data 
+ Machine Learning ML / Deep Learning 
+ Web Scrapping 
+ Data Mining / Big Data Mining 
+ Modélisation de séries temporelles 
+ 
+Langages de programmation : 
+ Apache Spark, Hadoop 
+  SQL, MYSQL, NoSQL 
+ C, QGYS 
+ Python, R 
+ SAS, STATA,  Cspro 
+ 
+Langues :  Anglais : niveau professionnel 
+ 
+FORMATION      
+2018 – 2019 Master 2 Data Science et modélisation statistiques 
+ Université Bretagne Sud, France 
+2017 – 2018 Master 1 Data Science et modélisation statistique  
+ Université Bretagne Sud, France 
+2013 – 2016 Licence en Statistiques et Informatiques  
+ Université Nazi Boni, Burkina Faso 
+ 
+ 
+ 
+ 
+CERTIFICAT  
+ 
+Avril 2020 sans  
+date d’expiration 
+Big Data avec Apache Spark : Initiation 
+  
+Avril 2020  sans 
+date d’expiration Data science avec Python : Types de variables et opérations  
+ 
+ 
+ 
+Signature : Le 28 juillet 2020 
+ 
+ 
