@@ -1,4 +1,5 @@
 name: Deploy portfolio to GitHub Pages
+run-name: Deploy portfolio (${{ github.ref_name }})
 
 on:
   push:
