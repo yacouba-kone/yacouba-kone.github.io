@@ -1,0 +1,15 @@
+node_modules/
+portfolio-app/node_modules/
+portfolio-app/dist/
+articles_meta.txt
+cv_context.txt
+cv_docx.txt
+cv_full.txt
+cv2020.txt
+extra_cv.py
+ID.jpg
+Tasks.md
+package-lock.json
+package.json
+Tasks.md
+verify_data.mjs
